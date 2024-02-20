@@ -5,11 +5,13 @@ import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import Image from "next/image";
 import TeamMember from "@/components/TeamMember";
+import OurServices from "@/components/Our-Services";
 
 export default function Home() {
   return (
     <main>
       <Navbar/>
+        <OurServices/>
       <Footer/>
     </main>
   );
