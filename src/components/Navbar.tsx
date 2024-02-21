@@ -24,12 +24,12 @@ const Navbar = () =>{
                             Our Services
                         </a>
                     </Link>
-                    <Link href="/" legacyBehavior>
+                    <Link href="/schedule-appointment" legacyBehavior>
                         <a className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-white mr-4">
                             Schedule Appointment
                         </a>
                     </Link>
-                    <Link href="/" legacyBehavior>
+                    <Link href="/volunteer" legacyBehavior>
                         <a className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-white mr-4">
                             Volunteer
                         </a>
@@ -39,7 +39,7 @@ const Navbar = () =>{
                             Our Team
                         </a>
                     </Link>
-                    <Link href="/" legacyBehavior>
+                    <Link href="/contact" legacyBehavior>
                         <a className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-white mr-4">
                             Contact Us
                         </a>
